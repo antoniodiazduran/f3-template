@@ -1,0 +1,9 @@
+<div id="msg" class="alert alert-<?= ($stat) ?>">
+    <strong><?= ($msg) ?></strong>
+ </div>
+
+<script>
+  $(document).ready(function () {
+	setTimeout(function () { $("#msg").hide()},2000);
+  });
+</script>
