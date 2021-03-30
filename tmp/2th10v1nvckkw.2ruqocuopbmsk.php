@@ -89,7 +89,7 @@ body {
 </div>
 
 <div class="main">
-  <h2>Welcome to Sanford</h2>
+  <h2>Welcome!</h2>
 </div>
 
 <script>
